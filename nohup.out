@@ -1,0 +1,24 @@
+INFO  Validating config
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+INFO  Good bye
+INFO  Validating config
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+(node:11133) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:11133) Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+(node:11133) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+(node:11133) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+(node:11133) Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+(node:11133) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+INFO  Validating config
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
