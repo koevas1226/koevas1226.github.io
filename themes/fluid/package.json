@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "hexo-theme-fluid@1.8.4",
+      "/Users/leopod/me/blog"
+    ]
+  ],
+  "_from": "hexo-theme-fluid@1.8.4",
+  "_id": "hexo-theme-fluid@1.8.4",
+  "_inBundle": false,
+  "_integrity": "sha512-d6Tt4YXiaz95/SNL5bNNu4iRhOUcYwO2EJ28j4HAYddqnUc1rlrjiUARCon32GF5QIevVMiYnMuaUt6Dt5G4Sw==",
+  "_location": "/hexo-theme-fluid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "hexo-theme-fluid@1.8.4",
+    "name": "hexo-theme-fluid",
+    "escapedName": "hexo-theme-fluid",
+    "rawSpec": "1.8.4",
+    "saveSpec": null,
+    "fetchSpec": "1.8.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-theme-fluid/-/hexo-theme-fluid-1.8.4.tgz",
+  "_spec": "1.8.4",
+  "_where": "/Users/leopod/me/blog",
+  "author": {
+    "name": "fluid-dev",
+    "url": "https://github.com/fluid-dev"
+  },
+  "bugs": {
+    "url": "https://github.com/fluid-dev/hexo-theme-fluid/issues"
+  },
+  "description": "An elegant Material-Design theme for Hexo.",
+  "devDependencies": {
+    "ejs-lint": "^1.1.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-shell": "^0.8.0",
+    "husky": "^4.3.0",
+    "js-yaml": "^3.14.0"
+  },
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "homepage": "https://hexo.fluid-dev.com/docs",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "fluid",
+    "material"
+  ],
+  "license": "MIT",
+  "main": "gulpfile.js",
+  "name": "hexo-theme-fluid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluid-dev/hexo-theme-fluid.git"
+  },
+  "scripts": {
+    "lint": "gulp"
+  },
+  "version": "1.8.4"
+}
