@@ -36,3 +36,6 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+## 图片测试
+![cdn](http://qjn1cao66.hn-bkt.clouddn.com/default.jpg)
