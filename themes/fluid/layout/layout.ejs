@@ -48,7 +48,7 @@ var colorSchema = theme.dark_mode && theme.dark_mode.enable && theme.dark_mode.d
       <div class="container nopadding-md">
         <div class="py-5" id="board"
           <%- banner_img_height >= 100 && theme.banner_parallax ? 'style=margin-top:0' : '' %>>
-          <% if(page.layout == 'about') { %>
+          <% if(page.layout == 'about' || page.layout == 'resume') { %>
             <div class="about-avatar">
               <img src="<%- url_for(theme.about.avatar) %>"
                    class="img-fluid" alt="avatar">
