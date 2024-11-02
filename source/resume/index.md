@@ -47,30 +47,11 @@ layout: resume
   <p>&nbsp;</p>
 
 #### 目前在做什么
-```js
-//  `->`左边代表已经完成，右边代表未完成
-```
-- 搭建了docker-image的私有仓，实现了CI/CD自动化 -> 支持版本回滚，蓝绿部署
-- 用node写了 [`bitmap`](https://en.wikipedia.org/wiki/Bitmap) 的原生实现，-> 实现jpeg、png图像格式，再进行图像压缩。
-- 用c实现多线程、支持epoll的http server
- <p>&nbsp;</p>
  
 ##### 技术栈
-  ```js
-  const abilities = ['nodejs','typescript', 'c',  'mongodb', 'micro-service'];
-  function canDo(){
-    findIssues();
-    canSolveBySelf && solveIssues();
-    if(canNot) discussWithOthers(others);
-  }
-  canDo(abilities);
-  process.exit('happy ending');
-  ```
+ 
 ----
 <p>&nbsp;</p>
 
 #### 工作期望
 ----
-
-- 3年工作经验，意向后端开发。熟悉业务逻辑处理、产品沟通、前端协调，:)
-- 喜欢和有趣的小伙伴一起做事情 ^_^
